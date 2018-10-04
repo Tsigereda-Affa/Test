@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58490" started-at="2018-10-04T02:38:04Z" finished-at="2018-10-04T02:39:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58490" started-at="2018-10-04T02:38:04Z" finished-at="2018-10-04T02:39:03Z">
+      <class name="emailCheck.NewTest">
+        <test-method status="PASS" signature="clickEmailAndCheckContent()[pri:0, instance:emailCheck.NewTest@4b9e13df]" name="clickEmailAndCheckContent" duration-ms="57940" started-at="2018-10-04T02:38:05Z" finished-at="2018-10-04T02:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickEmailAndCheckContent -->
+      </class> <!-- emailCheck.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
